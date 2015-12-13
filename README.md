@@ -10,3 +10,5 @@ Selects faces in multiples for strips
 3). Enter the number you wish to select in multiples of. Eg. Every alternate will be 2, every third is 3, etc. 
 
 4). Run script. 
+
+*Note that this version won't work well with a full surface. One would have to seperate the surface into strips first. 
